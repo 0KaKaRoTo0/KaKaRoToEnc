@@ -1,0 +1,6 @@
+# Obfuscated by Py Compile
+# Created by HTR-TECH (https://github.com/htr-tech)
+# Instagram : @tahmid.rayat
+
+import marshal,zlib,base64
+exec(marshal.loads(zlib.decompress(base64.b64decode("eJx9Ut9LG0EQns0ll8RGfPAhWB9cKEgQzjORQtESRIMVAq1Un84HWbOTH+bu9sjO2ebZ/6f/Yp09T6sVnN2d/b65b79Z2BtBGR6vI172DyfNU0AMEAEgwK0AXYF7AaIk3ktSfUlqb79oH6IKYAV0HdrfzkpvDyLvqU8VoipgDXTDHYj8AjcLXH/qvwLoQ1t/gDayTeHbAnYTcNFZ5SvP/nJ8t18YEi6S/HdgMkyDfBHLKVFmD8KQdhMMz9TJEBfdzxy9/Z7c7stQ412Y5nFst/hwNp/IWWpJxbFMjcZb+1qzw5o0S541wUTeKDsNzM04tyNF+Fr+ieUqo2CC9K5tnXWbV3uH+93ErjM+MQMcyOOlPJRDNVQ/zaWxDa6fzmKUQV/aFSY/cjrPqaBrTP+7h61yTQZGkgMDk2LHOVCFk7Hku8deWsKEBMM78spCk/cxt5mlWU4FW6hf14/MOc3VXFHNlQ2Zbsf9PP+Sde56Qq7T18ToPMa+s7cfObXE6vPwRVO0yrEhHgA1+YzN"))))
